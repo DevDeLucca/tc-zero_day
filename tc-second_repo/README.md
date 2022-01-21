@@ -1,2 +1,2 @@
-***Novo arquivo Tc***
-**Tc Secund**
+***README.md***
+**Diretorio TC**
